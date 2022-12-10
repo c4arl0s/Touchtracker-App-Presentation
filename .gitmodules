@@ -1,0 +1,6 @@
+[submodule "18TouchEventsAndUIResponder"]
+	path = 18TouchEventsAndUIResponder
+	url = git@github.com:c4arl0s/18TouchEventsAndUIResponder.git
+[submodule "19UIGestureRecognizerAndUIMenuController"]
+	path = 19UIGestureRecognizerAndUIMenuController
+	url = git@github.com:c4arl0s/19UIGestureRecognizerAndUIMenuController.git
